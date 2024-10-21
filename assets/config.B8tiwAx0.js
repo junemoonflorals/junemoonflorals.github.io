@@ -1,0 +1,1 @@
+const o={calendar:"https://cal.com/rachelrobillard",instagram:"https://www.instagram.com/junemoonflorals",pinterest:"https://www.pinterest.com/junemoonflorals",facebook:"https://www.facebook.com/people/June-Moon-Floral-Design/61565121772166"};export{o as C};
